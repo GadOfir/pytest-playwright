@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# IDE specific files
+.idea/
+
+# Compiled Python files
+*.pyc
+
+# Cache directories
+__pycache__/
+.pytest_cache/
