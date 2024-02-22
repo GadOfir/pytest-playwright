@@ -1,3 +1,7 @@
+test PgaeObject on Python using pytest and playright
+just a proof of concept
+
+
 python -m venv venv
 
 #
