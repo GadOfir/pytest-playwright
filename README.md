@@ -3,10 +3,10 @@ python3 -m venv venv
 
 
 venv\Scripts\activate
+pip install pytest playwright pytest-html
 
-pip install -r requirements.txt
 
 go to /tests
 pytest 01_test.py
-
+or
 pytest 01_test.py --html=report.html
